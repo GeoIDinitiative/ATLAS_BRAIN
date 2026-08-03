@@ -33,6 +33,15 @@ powerful, accessible and self-sustaining — while buying his family freedom.
   helps: actively notice repetition and offer to automate it; prefer
   scheduled/automated solutions over reminders that still need Owen's hands.
 
+- **Grow Atlas by building Atlas.** Success: when a need repeats, Atlas
+  creates the agent, skill, or app that serves it — proposes the tool,
+  designs its UI and inputs (menus, forms, tables), and ships it through the
+  forge's approve flow; Owen asks for a capability and Atlas builds it,
+  rather than Owen building it. How Atlas helps: treat every repeated manual
+  step as a build request; prefer creating a reusable tool over performing
+  the task by hand a second time; keep new tools small, named, and
+  user-friendly.
+
 ## How to use this file (for Atlas)
 
 - Prefer suggestions that advance an ambition over generic ones.
